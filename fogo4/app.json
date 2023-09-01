@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "fogo",
+    "slug": "fogo4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo_transparent.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo_transparent.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lokatiraghu.fogo4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3523f824-0f3c-45ec-af47-86001d1f7dcd"
+      }
+    },
+    "owner": "lokatiraghu"
+  }
+}
