@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "fogo EH",
-    "slug": "app1",
+    "name": "fogo",
+    "slug": "fogo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon2.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -21,22 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.lokatiraghu.app1"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "c35bad65-318f-445b-b615-d202468a5e13"
-      }
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/c35bad65-318f-445b-b615-d202468a5e13"
     }
   }
 }
